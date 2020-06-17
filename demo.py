@@ -1,10 +1,7 @@
 from profile_class import Profile
 import re
 
-url = 'http://www.cs.tsinghua.edu.cn/publish/cs/4616/2013/20130424102559852515182/20130424102559852515182_.html'
-# url = 'http://cs.ahu.edu.cn/2018/0329/c11201a163134/page.htm'
-
-url = 'http://staff.ustc.edu.cn/~qiliuql/'
+url = 'http://cs.ahu.edu.cn/2018/0329/c11201a163134/page.htm'
 
 '''
 html, _ = he.extract(url, text_only=False, remove_img=False, save=True)
