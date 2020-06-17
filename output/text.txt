@@ -1,0 +1,310 @@
+
+
+
+
+
+
+
+
+
+Liu qi's HomePage
+
+
+
+
+ Qi Liu(刘淇)'s homepage  
+Home  | Publications | Experiences | Teaching  
+
+
+
+
+             Dr. Qi Liu, Professor                                刘  淇, 特任教授，博士生导师
+   Anhui Province Key Laboratory of Big Data Analysis and Application,
+   School of Computer Sci & Tec,   School of Data Science,   NEL for Speech and Language Information Processing
+   University of Science and Technology of China (USTC)
+  &nbspOffice;: 210, West Lab Building of Science and Technology, West Campus of USTC, Hefei, Anhui, China,230027 
+  &nbspTel;: 0551-63603823(Office)
+    Email: qiliuql@ustc.edu.cn liuqiah@gmail.com
+
+
+ Research Interests
+
+Data Science, Data Mining && Machine Learning: Methods and Applications
+Recommender Systems && Social Network Analysis
+----Here is one of my research groups BASE (Bigdata and Artifical intelligence for Science & Education)
+		----My DBLP and Google Scholar. Some Data and Code of our recent work can be also found in this Github Page.
+		
+
+ Biography
+
+	Professor, School of Computer Science and Technology, University of Science and Technology of China, Nov. 2019~ .
+	Associate Professor, School of Computer Science and Technology, University of Science and Technology of China, Feb. 2016~ Nov. 2019.
+	Associate Researcher, School of Computer Science and Technology, University of Science and Technology of China, Jul. 2013~ Jan.2016.
+	Assistant Researcher, School of Computer Science and Technology, University of Science and Technology of China, Jul. 2012~ Jun.2013.
+	Ph.D. Student, Computer Science, University of Science and Technology of China, Sep. 2007~ Jun.2013.
+	Visiting Student, MSIS Rutgers Business School, Rutgers University. Nov. 2012~Jan. 2013.
+	Visiting Student, MSIS Rutgers Business School, Rutgers University. Sep. 2010~Dec. 2011.
+    Intern, Alibaba (China) Technology Co., Ltd, Mar. 2010~Aug. 2010.
+	B.S., Computer Science and Technology, Qufu Normal University, Sep. 2003~Jul. 2007.
+
+
+ Honors
+
+Dec. 2019,      中国科大新创校友基金会学术新星奖 
+Sep. 2019,      阿里巴巴达摩院青橙奖
+Dec. 2018,      中国科学院青年创新促进会优秀会员 
+Dec. 2018,      教育部高等学校科学研究优秀成果奖自然科学一等奖（本人排名第2） 
+Dec. 2018,      中国科大新创校友基金会院长研究奖 
+Aug. 2018,      KDD'18 (Research Track) Best Student Paper Award 
+Nov. 2017,     中国科协“青年人才托举工程”(2017-2019)&& CCF“青年人才托举计划” 
+Sep. 2014,    Distinguished Doctoral Dissertation Award of Chinese Academy of Sciences
+May. 2014,     CCDM'14 Best Student Paper Award
+Nov. 2013,      中国科学院青年创新促进会会员 
+Aug. 2013,     KSEM'13 Best Paper Award
+Aug. 2013,     CCML'13 Outstanding Student Paper Award
+	Mar. 2013,     Outstanding Graduate of Anhui Province
+	Dec. 2012,     National scholarship for Graduate Students
+	Oct.2012,     Special Prize of President Scholarship for Postgraduate Students, CAS
+	Mar.2012,     Google Technology Student Expert Award
+	Nov.2011,    	ICDM'11 Best Research Paper Award
+	Oct. 2011,    	CASC prize in USTC    	Grade 1
+	Nov.2011,     	ICDM'11 AICML student travel award
+	May 2011,     	First prize for "The First National Data Mining Invitation Tournament for College Students (Postgraduate), China"
+	Sep.2010-Sep.2011,     	China Scholarship Council scholarship 
+
+
+ Selected Publications
+
+		( *, Corresponding author  )
+
+		    Journal Papers:
+
+Qi Liu, Zhenya Huang, Yu Yin, Enhong Chen, Hui Xiong, Yu Su, Guoping Hu. EKT: Exercise-aware Knowledge Tracing for Student Performance Prediction. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).(Accepted)[PDF]
+
+Qi Liu, Runze Wu, Enhong Chen, Guandong Xu, Yu Su, Zhigang Chen, Guoping Hu. Fuzzy Cognitive Diagnosis for Modelling Examinee Performance. ACM Transactions on Intelligent Systems and Technology (ACM TIST). (Accepted) [PDF][Data]
+
+Hongyuan Zhu, Qi Liu*, Nicholas Jing Yuan*, Kun Zhang, Enhong Chen. Pop Music Generation: from Melody to Multi-style Arrangement. ACM Transactions on Knowledge Discovery from Data (ACM TKDD). (Accepted) [Data] 
+
+Le Wu, Qi Liu*, Richang Hong, Enhong Chen, Yong Ge, Xing Xie, Meng Wang. Product Adoption Rate Prediction in a Competitive Market. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).(Accepted) [PDF]
+
+张凯，赵洪科，刘 淇*，潘镇，陈恩红. 基于动静态表征的众筹协同预测方法. 软件学报 (Accepted).(获CCML2019最佳学生论文奖) 
+
+佟威，汪飞，刘 淇*，陈恩红. 数据驱动的数学试题难度预测. 计算机研究与发展, 2019(5):11.[PDF]
+
+Qi Liu, Biao Xiang, Nicholas Jing Yuan, Enhong Chen, Hui Xiong, Yi Zheng, Yu Yang. An Influence Propagation View of PageRank. ACM Transactions on Knowledge Discovery from Data (ACM TKDD), 11(3): 30, March 2017.(Accepted)[PDF][Data & Code]
+
+Qi Liu, Hongke Zhao, Le Wu, Zhi Li, Enhong Chen. Illuminating Recommendation by Understanding the Explicit Item Relations. Journal of Computer Science and Technology (JCST). (Accepted) [PDF] 
+
+Hongke Zhao, Qi Liu*, Hengshu Zhu, Yong Ge, Enhong Chen, Yan Zhu, Junping Du. A Sequential Approach to Market State Modeling and Analysis in Online P2P Lending. IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE TSMC-S), accepted, 2017. [PDF]
+
+ Qi Liu, Enhong Chen, Hui Xiong, Yong Ge, Zhongmou Li, and Xiang Wu. A Cocktail Approach for Travel Package Recommendation. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE),26(2): 278-293, February 2014.[PDF]
+
+Chang Tan, Qi Liu*, Enhong Chen, Hui Xiong, and Xiang Wu. Object-oriented Travel Package Recommendation, ACM Transactions on Intelligent Systems and Technology (ACM TIST), 5(3): 43, September 2014.[PDF] 
+
+Le Wu, Qi Liu*, Enhong Chen, Nicholas Jing Yuan, Guangming Guo, Xing Xie. Relevance meets Coverage: A Unified Framework to Generate Diversified Recommendations, ACM Transactions on Intelligent Systems and Technology (ACM TIST), 7(3): 39, February 2016.[PDF]
+
+Qi Liu, Haiping Ma, Enhong Chen, and Hui Xiong. A survey of Context-aware Mobile Recommendations. International Journal of Information Technology and Decision Making (IJITDM), Vol. 12(1), pages: 139-172, 2013.[PDF]
+
+Qi Liu, Enhong Chen, Hui Xiong, Chris H.Q. Ding and Jian Chen. Enhancing Collaborative Filtering by User Interests Expansion via Personalized Ranking. IEEE Transactions on Systems, Man, and Cybernetics - Part B (IEEE TSMCB), Vol 42(1), pages:218 - 233, 2012.[PDF]
+
+曾宪宇，刘 淇*，赵洪科，徐 童，王怡君，陈恩红. 用户在线购买预测：一种基于用户操作序列和选择模型的方法. 计算机研究与发展,53(08):1673-1683,2016.[PDF] 
+
+怀宝兴，宝腾飞，祝恒书，刘 淇*. 一种基于概率主题模型的命名实体链接方法，软件学报,25(09):2076-2087,2014.(获CCDM2014最佳学生论文奖）[PDF] 
+
+Zhenya Huang, Qi Liu, Yuying Chen, Le Wu, Keli Xiao, Enhong Chen, Haiping Ma, Guoping Hu, Learning or Forgetting? A Dynamic Approach for Tracking the Knowledge Proficiency of Students,  ACM Transactions on Information Systems (ACM TOIS), accepted, 2020.
+
+Guangyi Lv, Kun Zhang, Le Wu, Enhong Chen, Tong Xu, Qi Liu, Weidong He, Understanding the Users and Videos by Mining a Novel Danmu Dataset,  IEEE Transactions on Big Data(IEEE TBD).(Accepted) [PDF]
+
+Guifeng Wang, Qi Liu, Hongke Zhao, Chuanren Liu, Tong Xu, Enhong Chen. Product Supply Optimization for Crowdfunding Campaigns. IEEE Transactions on Big Data(IEEE TBD).(Accepted)
+
+Keli Xiao, Qi Liu, Chuanren Liu, Hui Xiong. Price Shock Detection with an Influence-Based Model of Social Attention. ACM Transactions onManagement Information Systems(ACM TMIS).(Accepted)
+
+Le Wu, Yong Ge, Qi Liu, Enhong Chen, Richang Hong, Meng Wang, Junping Du. Modeling the Evolution of Users’ Preferences and Social Links in Social Networking Services. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 29(6): 1240-1253, June 2017.[PDF]
+
+Yi Zheng, Qi Liu, Enhong Chen, Yong Ge, J. Leon Zhao. Exploiting Multi-Channels Deep Convolutional Neural Networks for Multivariate Time Series.Frontiers of Computer Science (FCS) , 10(1): 96-112, February 2016.[PDF]
+
+Zongda Wu, Guiling Li, Qi Liu, Guandong Xu, Enhong Chen. Covering the Sensitive Subjects to Protect Personal Privacy in Personalized Recommendation. IEEE Transactions on Services Computing (IEEE TSC).PP(99) :1-1,1939 2016.[PDF]
+
+Hongke Zhao, Yong Ge, Qi Liu, Guifeng Wang, Enhong Chen, Hefu Zhang, P2P Lending Survey: Platforms, Recent Advances and Prospects, ACM Transactions on Intelligent Systems and Technology (ACM TIST), 8(6): 72, 2017.[PDF]
+
+Guangming Guo, Feida Zhu, Enhong Chen, Qi Liu, Le Wu, Chu Guan. From Footprint to Evidence: An Exploratory Study of Mining Social Data for Credit Scoring, ACM Transactions on the Web (ACM TWEB), 10(4): 22, December 2016. "ACM Computing Reviews' Notable Books and Articles in Computing of 2016”[PDF]
+
+ Lei Zhang, Ping Luo, Linpeng Tang, Enhong Chen, Qi Liu, Min Wang, Hui Xiong. Occupancy-based Frequent Pattern Mining,ACM Transactions on Knowledge Discovery from Data (ACM TKDD), 10(2):14, October 2015.[PDF]
+
+ Baoxing Huai, Enhong Chen, Hengshu Zhu, Hui Xiong, Tengfei Bao, Qi Liu, Jilei Tian. Towards Personalized Context Recognition for Mobile Users: A Semi-Supervised Bayesian HMM Approach, ACM Transactions on Knowledge Discovery from Data (ACM TKDD), 9(2): 10, September 2014.[PDF]
+
+ Chen Zhu, Hengshu Zhu, Yong Ge, Enhong Chen, Qi Liu, Tong Xu, and Hui Xiong. Tracking the evolution of social emotions with topic models Springer Knowledge and Information System Journal (Springer KIS), 47(3): 517-544, June 2016. [PDF]
+
+Yong Ge, Hui Xiong, Alexander Tuzhilin and Qi Liu. Cost-aware Collaborative Filtering for Travel Tour Recommendations , ACM Transactions on Information Systems (TOIS),32(1): 4,2014.[PDF] 
+
+朱天宇，黄振亚，陈恩红，刘 淇，吴润泽，吴乐，苏喻，陈志刚，胡国平. 基于认知诊断的个性化试题推荐方法. 计算机学报，40(1): 176-191，2017年1月.[PDF] 
+
+王超，刘 淇，陈恩红，黄振亚，朱天宇，苏喻，胡国平，面向大规模认知诊断的DINA模型快速计算方法研究. 电子学报，已接收，2017.
+孙光福，吴 乐，刘 淇，朱 琛，陈恩红. 基于时序行为的协同过滤推荐算法，软件学报，24(11): 2721 – 2733，2013年11月.(统计学习研究与方法专刊，获CCML2013优秀学生论文奖）[PDF]
+
+    Conference Papers:
+
+Fei Wang, Qi Liu*, Enhong Chen*, Zhenya Huang, Yuying Chen, Yu Yin, Zai Huang, Shijin Wang, Neural Cognitive Diagnosis for Intelligent Education Systems, The 34th AAAI Conference on Artificial Intelligence (AAAI'2020), New York, USA, February 7-12 2020. accepted. [PDF][中文解读][Code&Data;] [Slides]
+Yang Liu,Qi Liu*, Hongke Zhao, Zhen Pan, Chuanren Liu, Adaptive Quantitative Trading: an Imitative Deep Reinforcement Learning Approach, The 34th AAAI Conference on Artificial Intelligence (AAAI'2020), New York, USA, February 7-12 2020. accepted.
+Jun Wang, Hefu Zhang, Qi Liu*, Zhen Pan, Hanqing Tao, Crowdfunding Dynamics Tracking: A Reinforcememtn Learning Approach, The 34th AAAI Conference on Artificial Intelligence (AAAI'2020), New York, USA, February 7-12 2020. accepted.
+Qi Liu, Shiwei Tong, Chuanren Liu, Hongke Zhao, Enhong Chen, Haiping Ma and Shijin Wang. Exploiting Cognitive Structure for Adaptive Learning. The 25nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2019), 627-635, Anchorage, Alaska, USA, 2019.[PDF] 
+Chengqiang Lu, Qi Liu*, Chao Wang, Zhenya Huang, Peize Lin, Lixin He, Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective. The 33rd AAAI Conference on Artificial Intelligence (AAAI'2019), Honolulu, USA, accepted, 2019.[PDF][Code]  
+Kai Zhang, Hefu Zhang, Qi Liu*, Hongke Zhao, Hengshu Zhu, Enhong Chen, Interactive Attention Transfer Network for Cross-domain Sentiment Classification. The 33rd AAAI Conference on Artificial Intelligence (AAAI'2019), Honolulu, USA, accepted, 2019.[PDF]  
+Qi Liu, Zai Huang, Zhenya Huang, Chuanren Liu, Enhong Chen, Yu Su, Guoping Hu. Finding Similar Exercises in Online Education Systems. The 24nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2018), accepted, 2018. [PDF]  
+Zhi Li, Hongke Zhao, Qi Liu*, Zhenya Huang, Tao Mei, Enhong Chen. Learning from History and Present: Next-item Recommendation via Discriminatively Exploiting User Behaviors. The 24nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2018), accepted, 2018. [PDF]  
+Hongyuan Zhu, Qi Liu*, Nicholas Jing Yuan*, Chuan Qin, Jiawei Li, Kun Zhang, Guang Zhou, Furu Wei, Yuanchun Xu, Enhong Chen. XiaoIce Band:A Melody and Arrangement Generation Framework for Pop Music. The 24nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2018), accepted, 2018.(Best Student Paper Award of Research Track) [PDF] 
+Qi Liu, Han Wu, Yuyang Ye, Dongfang Du, Chuanren Liu, Hongke Zhao. Patent Litigation Prediction: A Hybrid Modeling Approach. The 27th International Joint Conference on Artificial Intelligence (IJCAI'2018), accepted, 2018. [PDF] 
+Yu Su, Qingwen Liu, Qi Liu*, Zhenya Huang, Yu Yin, Enhong Chen, Chris Ding, Si Wei, Guoping Hu, Exercise-Enhanced Sequential Modeling for Student Performance Prediction, The 32nd AAAI Conference on Artificial Intelligence (AAAI'2018), accepted, 2018. [PDF] 
+Runlong Yu, Yunzhou Zhang, Yuyang Ye, Le Wu, Chao Wang, Qi Liu*, Enhong Chen. Multiple Pairwise Ranking with Implicit Feedback. The 27th ACM International Conference on Information and Knowledge Management (CIKM'2018), ACM, 1727-1730, 2018.[PDF] 
+Qi Liu, Guifeng Wang, Hongke Zhao, Chuanren Liu, Tong Xu, Enhong Chen. Enhancing Campaign Design in Crowdfunding: A Product Supply Optimization Perspective. The 26th International Joint Conference on Artificial Intelligence (IJCAI'2017) [PDF] 
+Zhenya Huang, Qi Liu*, Enhong Chen, Hongke Zhao, Mingyong Gao, Si Wei, Yu Su, Guoping Hu. Question Difficulty Prediction for READING Problems in Standard Tests,The 31st AAAI Conference on Artificial Intelligence (AAAI'2017): 1352-1359, San Francisco, California USA, February 4-9, 2017.[PDF]
+Zai Huang, Zhen Pan, Qi Liu*, Bai Long, Haiping Ma, Ming He and Enhong Chen. An Ad CTR Prediction Method Based on Feature Learning of Deep and Shallow Layers, The 26th ACM International Conference on Information and Knowledge Management (CIKM'2017),Singapore, November 6-10, 2017.
+Hongke Zhao, Qi Liu*, Guifeng Wang, Yong Ge, Enhong Chen. Portfolio Selections in P2P Lending: A Multi-Objective Perspective,The 22nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2016): 2075-2084, San Francisco, USA, August 13-17, 2016.[PDF]
+Hongke Zhao, Qi Liu*, Yong Ge, Ruoyan Kong, Enhong Chen. Group Preference Aggregation: A Nash Equilibrium Approach, The 16th IEEE International Conference on Data Mining (ICDM'2016): 679-688, Barcelona, Spain, December 12-15, 2016.[PDF]
+Qi Liu, Xianyu Zeng, Chuanren liu, Hengshu Zhu, Enhong Chen, Hui Xiong, and Xing Xie. Mining Indecisiveness in Customer Behaviors. The 15th International Conference on Data Mining(ICDM'2015):281-290,Atlantic City, NJ, USA, November 14-17, 2015 ,accepted for regular paper (Rate 8.4%).[PDF]
+Runze Wu, Qi Liu*, Yuping Liu, Enhong Chen, Yu Su, Zhigang Chen, Guoping Hu. Cognitive Modelling for Predicting Examinee Performance.The 24th International Joint Conference on Artificial Intelligence (IJCAI'2015): 1017-1024, Buenos Aires, Argentina, July 25-31, 2015.[PDF]
+Guangxiang Zeng, Hengshu Zhu, Qi Liu*, Ping Luo, Enhong Chen, Tong Zhang. Matrix Factorization with Scale-Invariant Parameters.The 24th International Joint Conference on Artificial Intelligence (IJCAI'2015): 1017-1024, Buenos Aires, Argentina, July 25-31, 2015. [PDF]
+Le Wu, Qi Liu*, Enhong Chen, Xing Xie, Chang Tan. Product Adoption Rate Prediction: A Multi-factor View. 2015 SIAM International Conference on Data Mining (SDM'2015): 154-162, Vancouver, British Columbia, Canada, April 30-May 2, 2015, (Best of SDM 2015)[PDF]
+Qi Liu, Zheng Dong, Chuanren Liu, Xing Xie, Enhong Chen, Hui Xiong. Social Marketing Meets Targeted Customers: A Typical User Selection and Coverage Perspective. The 14th IEEE International Conference on Data Mining (ICDM'2014): 350-359, Shenzhen, China, December 14-17, 2014, accepted for regular paper(71/727=9.7%).[PDF]
+Qi Liu, Biao Xiang, Enhong Chen, Hui Xiong, Fangshuang Tang, Jeffrey Xu Yu. Influence Maximization over Large-Scale Social Networks: A Linear Approach with Bound. The 23rd ACM International Conference on Information and Knowledge Management (CIKM'2014) : 171-180, Shanghai, China, November 3-7, 2014, accepted for full paper(95/457=21%).[PDF]
+Qi Liu, Biao Xiang, Lei Zhang, Enhong Chen, Chang Tan, Ji Chen. Linear Computation for Independent Social Influence. The 13th IEEE International Conference on Data Mining (ICDM'2013): 468-477, Dallas, Texas, USA, December 7-10, 2013, accepted for regular paper(94/809=11.6%).[PDF]
+Qi Liu, Biao Xiang, Enhong Chen, Yong Ge, Hui Xiong, Tengfei Bao, Yi Zheng. Influential Seed Items Recommendation. The ACM Conference Series on Recommender Systems (RecSys'2012): 245-248,Dublin, Ireland, Sept 9-13, 2012. [PDF]
+Qi Liu, Yong Ge, Zhongmou Li, Enhong Chen, and Hui Xiong. Personalized Travel Package Recommendation. The 11th IEEE International Conference on Data Mining (ICDM'2011):407-416,(Best Research Paper Award)[PDF]
+
+Qi Liu, Enhong Chen, Biao Xiang, Chris H.Q Ding, and Liang He. Gaussian Process for Recommender Systems.  The 2011 International Conference on Knowledge Science, Engineering and Management (KSEM'2011): 56-67, Irvine, California, USA, December 12-14, 2011.[PDF]
+
+Qi Liu, Enhong Chen, Hui Xiong and Chris H.Q. Ding. Exploiting User Interests for Collaborative Filtering: Interests Expansion via Personalized Ranking, The 19th ACM International Conference on Information and Knowledge Management (CIKM'2010): 1697-1700, Toronto, Canada, October 26-30, 2010. [PDF]
+Yu Yin, Qi Liu, Zhenya Huang, Enhong Chen, Wei Tong, Shijin Wang and Yu Su. QuesNet: A Unified Representation for Heterogeneous Test Questions. The 25nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2019), Anchorage, Alaska, USA, accepted, 2019. 
+Hao Wang, Tong Xu, Qi Liu, Defu Lian, Enhong Chen, Dongfang Du, Han Wu and Wen Su. MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network. The 25nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2019), Anchorage, Alaska, USA, accepted, 2019. 
+Yu Yin, Zhenya Huang, Enhong Chen, Qi Liu, Fuzheng Zhang, Xing Xie and Guoping Hu. Transcribing Content from Structural Images with Spotlight Mechanism. The 24nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2018), accepted, 2018. [PDF] [Data]
+Chao Wang, Qi Liu, Runze Wu, Enhong Chen, Chuanren Liu, Xunpeng Huang, Zhenya Huang, Confidence-aware Matrix Factorization for Recommender Systems, The 32nd AAAI Conference on Artificial Intelligence (AAAI'2018), accepted, 2018.
+Yanan Wang, Qi Liu, Chuan Qin, Tong Xu, Yijun Wang, Enhong Chen, and Hui Xiong, Exploiting Topic-based Adversarial Neural Network for Cross-domain Keyphrase Extraction,  Proceedings of 2018 IEEE International Conference on Data Mining (ICDM'2018), Singapore, 2018, Accepted.
+Hao Wang, Enhong Chen, Qi Liu, Tong Xu, Dongfang Du, Wen Su, and Xiaopeng Zhang, A United Approach to Learning Sparse Attributed Network Embedding, Proceedings of 2018 IEEE International Conference on Data Mining (ICDM'2018), Singapore, accepted, 2018.
+Kun Zhang, Guangyi Lv, Le Wu, Enhong Chen, Qi Liu, and Han Wu, Image-Enhanced Multi-Level Sentence Representation Net for Natural Language Inference, Proceedings of 2018 IEEE International Conference on Data Mining (ICDM'2018), Singapore, accepted, 2018.
+Tianyu Zhu, Qi Liu, Zhenya Huang, Enhong Chen, Defu Lian, Yu Su, Guoping Hu, MT-MCD: A Multi-task Cognitive Diagnosis Framework for Student Assessment, The 23rd International Conference on Database Systems for Advanced Applications (DASFAA'2018), accepted, 2018.
+Ming He, Yan Chen, Qi Liu, Yong Ge, Enhong Chen, Guiquan Liu, Lichao Liu and Xin Li, Understand and Assess People’s Procrastination by Mining Computer Usage Log, The 11th International Conference on Knowledge Science, Engineering and Management (KSEM'2018): 187-199, Changchun, China, 2018.(Best Paper Award)[PDF].
+Hongke Zhao, Hefu Zhang, Yong Ge, Qi Liu, Enhong Chen, Huayu Li, Le Wu. Tracking the Dynamics in Crowdfunding. The 23rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2017): 625-634, Halifax, Nova Scotia, Canada, August 13-17, 2017. [PDF]
+Kun Zhang, Enhong Chen, Qi Liu, Chuanren Liu, Guangyi Lv. A Context-Enriched Neural Network method for Recognizing Lexical Entailment,The 31st AAAI Conference on Artificial Intelligence (AAAI'2017): 3127-3133, San Francisco, California USA, February 4–9, 2017. [PDF]
+Yuying Chen, Qi Liu, Zhenya Huang, Enhong Chen, Le Wu, Runze Wu, Yu Su and Guoping Hu. Tracking Knowledge Proficiency of Students with Educational Priors, The 26th ACM International Conference on Information and Knowledge Management (CIKM'2017),accepted, Singapore, November 6-10, 2017.[PDF]
+Runze Wu, Guandong Xu, Enhong Chen, Qi Liu, Wan Ng. Knowledge or Gaming? Cognitive Modelling Based on Multiple-Attempt Response, The 26th International World Wide Web Conference (WWW'2017 Companion): 321-329, Perth, Australia, April 3-7, 2017. [PDF]
+Tong Xu, Hengshu Zhu, Xiangyu Zhao, Qi Liu, Hao Zhong, Enhong Chen, Hui Xiong. Taxi Driving Behavior Analysis in Latent Vehicle-to-Vehicle Networks: A Social Influence Perspective,The 22nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2016): 1285-1294, San Francisco, USA, August 13-17, 2016. [PDF]
+Hengshu Zhu, Hui Xiong, Fangshuang Tang, Qi Liu, Yong Ge, Enhong Chen, Yanjie Fu. Days on Market: Measuring Liquidity in Real Estate Markets, The 22nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2016): 393-402, San Francisco, USA, August 13-17, 2016. [PDF]
+Yingzi Wang, Nicholas Jing Yuan, Yu Sun, Fuzheng Zhang, Xing Xie, Qi Liu, Enhong Chen. A Contextual Collaborative Approach for App Usage Forecasting,The 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp'2016): 1247-1258, Heidelberg, Germany, September 12-16, 2016.[PDF]
+Zhen Pan, Enhong Chen, Qi Liu, Tong Xu, Haiping Ma, Hongjie Lin. Sparse Factorization Machines for Click-Through Rate Prediction,  The 16th IEEE International Conference on Data Mining (ICDM'2016): 400-409, Barcelona, Spain, December 12-15, 2016.[PDF]
+Defu Lian, Yuyang Ye, Wenya Zhu, Qi Liu, Xing Xie, Hui Xiong. Mutual Reinforcement of Academic Performance Prediction and Library Book Recommendation, The 16th IEEE International Conference on Data Mining (ICDM'2016): 1023-1028,2016
+
+Yuping Liu, Qi Liu, Runze Wu, Enhong Chen, Yu Su, Zhigang Chen, Guoping Hu. Collaborative Learning Team Formation: A Cognitive Modeling Perspective. The 21st International Conference on Database Systems for Advanced Applications (DASFAA'2016): 383-400, Dallas, Texas, USA, April 16-19, 2016.[PDF]
+Yan Zhu, Hengshu Zhu, Qi Liu, Enhong Chen, Hong Li, Hongke Zhao. Exploring the Procrastination of College Students: A Data-Driven Behavioral Perspective. The 21st International Conference on Database Systems for Advanced Applications (DASFAA'2016): 258-273, Dallas, Texas, USA, April 16-19, 2016. [PDF]
+Le Wu, Yong Ge, Qi Liu, Enhong Chen, Bai Long, Zhenya Huang. Modeling Users' Preferences and Social Links in Social Networking Services: a Joint-Evolving Perspective. The 30th AAAI Conference on Artificial Intelligence (AAAI'2016): 279-286, Phoenix, Arizona USA, February 12-17, 2016.[PDF]
+Guangyi Lv, Tong Xu, Enhong Chen, Qi Liu, Yi Zheng. Reading the Videos: Temporal Labeling for Crowdsourced Time-Sync Videos based on Semantic Embedding. The 30th AAAI Conference on Artificial Intelligence (AAAI'2016): 3000-3006, Phoenix, Arizona USA, February 12-17, 2016.[PDF]
+
+Zhefeng Wang, Enhong Chen, Qi Liu, Yu Yang, Yong Ge and Biao Chang. Maximizing the Coverage of Information Propagation in Social Networks. The 24th International Joint Conference on Artificial Intelligence (IJCAI'2015): 2104-2110, Buenos Aires, Argentina, July 25-31, 2015.[PDF]
+Li Zhang, Keli Xiao, Qi Liu, Yefan Tao, and Yuefan Deng. Modeling Social Attention for Stock Analysis: An Influence Propagation Perspective. The 15th IEEE International Conference on Data Mining(ICDM'2015): 609-618,2015,accepted for regular paper (Rate 8.4%).[PDF]
+Biao Chang, Feida Zhu, Enhong Chen, Qi Liu. Information Source Detection via Maximum A Posteriori Estimation. The 15th IEEE International Conference on Data Mining (ICDM'2015): 21-30, Atlantic City, NJ, USA, November 14-17, 2015, accepted for regular paper (Rate 8.4%).[PDF]
+Chu Guan, Qi Liu, Jingsong Lv, Enhong Chen, Hengshu Zhu, Xin Li. Consolidation: Metric+Active Learning and Its Applications For Cross-domain Recommendation. Web Intelligence and Intelligent Agent Technology(IEEE/WIC WI 2015): 244-251,2015.
+
+Guowei Ma, Qi Liu*, Le Wu, Enhong Chen. Identifying Hesitant and Interested Customers for Targeted Social Marketing. The 19th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD'2015): 576-590, Ho Chi Minh City, Vietnam, May 19-22, 2015.[PDF]
+Yi Zheng, Qi Liu, Enhong Chen, Leon  Zhao, Liang He, Guangyi Lv. Convolutional Nonlinear Neighbourhood Components Analysis for Time Series Classification. The 19th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD'2015): 534-546, Ho Chi Minh City, Vietnam, May 19-22, 2015.[PDF]
+Guowei Ma, Qi Liu*, Enhong Chen, Biao Xiang. Individual Influence Maximization via Link Recommendation. The 16th International Conference on Web-Age Information Management (WAIM'2015): 42-56, Qingdao, Shandong, China, June 8-10, 2015. [PDF]
+Chen Zhu, Hengshu Zhu, Yong Ge, Enhong Chen, Qi Liu. Tracking the Evolution of Social Emotions: A Time-Aware Topic Modeling Perspective. The 14th IEEE International Conference on Data Mining (ICDM'2014): 697-706, Shenzhen, China, December 14-17, 2014, accepted for regular paper(71/727=9.7%).[PDF]
+Hongke Zhao, Le Wu, Qi Liu, Yong Ge, Enhong Chen. Investment Recommendation in P2P Lending: A Portfolio Perspective with Risk Management. The 14th IEEE International Conference on Data Mining (ICDM'2014): 1109-1114, Shenzhen, China, December 14-17, 2014, accepted for short paper((71+71)/727=19%).[PDF]
+Fangshuang Tang, Qi Liu, Hengshu Zhu, Enhong Chen and Feida Zhu. Diversified Social Influence Maximization.the 2014 IEEE/ACM International Conference on Advances in Social Network Analysis and Mining (ASONAM'2014):455 - 459, Beijing, China, August 17-20, 2014.[PDF]
+Zhefeng Wang, Hao Wang, Qi Liu and Enhong Chen. Influential Nodes Selection: A Data Reconstruction Perspective. The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'2014): 879-882, Golden Coast, Australia, July 6-11, 2014.[PDF]
+
+Yi Zheng, Qi Liu, Enhong Chen, Yong Ge and Leon Zhao. Time Series Classification using Multi-Channels Deep Convolutional Neural Networks. The 15th International Conference on Web-Age Information Management (WAIM'2014):298-310, Macau, China, June 16-18, 2014.[PDF]
+Xiang Wu, Qi Liu, Enhong Chen, Liang He, Jingsong Lv, Can Cao and Guoping Hu. Personalized Next-song Recommendation in Online Karaokes. The ACM Conference Series on Recommender Systems (RecSys'2013): 137-140, Hong Kong, China, October 12-16, 2013.[PDF]
+Biao Xiang, Qi Liu, Enhong Chen, Hui Xiong, Yi Zheng, Yu Yang. PageRank with Priors: An Influence Propagation Perspective. The 23rd International Joint Conference on Artificial Intelligence (IJCAI'2013): 2740-2746, Beijing, China, August 3-9, 2013.[PDF]
+Xue Bai, Yun Xiong, Yangyong Zhu, Qi Liu and Zhiyuan Chen.  Co-anomaly Event Detection in Multiple Temperature Series.   The 6th International Conference on Knowledge Science, Engineering and Management (KSEM'2013), pages: 1-14,2013.(Best Paper Award)[PDF]
+
+
+Le Wu, Enhong Chen, Qi Liu, Linli Xu, Tengfei Bao, Lei Zhang. Leveraging Tagging for Neighborhood-aware Probabilistic Matrix Factorization. The 21st ACM Conference on Information and Knowledge Management (CIKM'2012): 1854-1858, Maui, HI, USA, October 29–November 2, 2012.[PDF]
+Yu Yang, Enhong Chen, Qi Liu, Biao Xiang, Tong Xu, Shafqat Ali Shad. On Approximation of Real-World Influence Spread. The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'2012): 548-564, Bristol, UK, September 24-28, 2012. [PDF]
+
+
+
+Yong Ge,Qi Liu, Hui Xiong, Alexander Tuzhilin and Jian Chen. Cost-aware Travel Tour Recommendation, The 17rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2011), pages: 983--991, 2011.[PDF]
+
+
+    Books && Chapters:
+
+推荐系统(技术评估及高效算法原书第2版), Recommender Systems Handbook(弗朗西斯科·里奇等著), 李艳民,吴宾,潘微科,刘 淇,蒋凡等译, 机械工业出版社, 2018.7(ISBN：9787111600756).
+Qi Liu, Zhefeng Wang, Enhong Chen, Influence Maximization Model, Encyclopedia of Social Network Analysis and Mining, 2017.
+Qi Liu, Mobile Travel Tour Recommendation, Encyclopedia of GIS, 2016.5.
+
+
+
+ Professional Activities
+
+Member of the Youth Innovation Promotion Association, CAS(中科院青年创新促进会会员).
+CCF YOCSEF AC Member (Hefei) since 2015, CCF大数据专家委员会委员, CAAI机器学习专业委员会委员.
+Member of the MSRA StarTrack Visiting Young Faculty (微软亚洲研究院“铸星计划”), Microsoft Research Asia, Beijing 2014.
+Young Associate Editor of Frontiers of Computer Science (FCS) since 2016.
+Co-Chair: ICDM MobileDM & HuMoComp 2015, ICDE RSDB 2019.
+Publicity Chair: CCF BigData 2017、CCF BigData 2016、CCF BigData 2015.
+	Session Chair: CCDM2014, ICDM2013; Publication Chair: KSEM2011.
+	Journal Reviewer: IEEE Trans. KDE, IEEE Trans. SMC-C, IEEE Trans. TC(SMC-B), IEEE Access, KAIS, WWWJ., Computer J., IJAC, JCST, etc.
+	SPC/PC Member: KDD2020, IJCAI2020, SIGIR2020, CIKM2020, AAAI2020, TheWebConf 2020, KDD 2019, IJCAI 2019, KDD 2018, IJCAI 2018, CIKM 2018, ICDM 2018, CIKM 2017, IJCAI 2017, WWW 2017, AAAI 2017, WSDM 2017, KDD 2016, ICDM 2016, SDM 2016, WAIM 2016, RecSys 2016, RecSys 2015, IJCAI 2015 (ML Track), KDD 2015, ICDM 2015, DASFAA 2015, SDM2015, WSDM2015, ICDM2014, WI2014，RecSys2014, BigData2014, WAIM2014,  DSAA2014, CCDM2014, ICDM 2013, WAIM 2013, IDEAL 2013, etc
+	External Reviewer: KDD2014, KDD2013, SDM2013, WSDM2013, WWW2013, PAKDD2013, KDD2012, SDM2012, CIKM2011, PKDD2011, KDD2010, PAKDD2010, SDM2010, etc.
+
+
+ Research Grants (Principal Investigator)
+	    
+2020.1-2022.12, 国家优秀青年科学基金
+2017.1-2020.12, the Natural Science Foundation of China
+2017.1-2020.12, the Natural Science Foundation of China
+2015.10-2016.12, CCF-Tencent Open Research Fund 
+2015.9-2016.8, CCF-Intel Young Faculty Researcher Program(YFRP)
+2015.1-2017.12, the Natural Science Foundation of China
+2014.7-2016.6, Anhui Provincial Natural Science Foundation 
+2014.1-2017.12, The Youth Innovation Promotion Association，CAS
+2014.1-2015.12, Fundamental Research Funds for the Central Universities
+My research is also supported by grants from the leading companies, e.g., iFLYTEK, Baidu, Microsoft, Tencent, ByteDance and WeBank.
+		
+
+  Teaching  
+
+ Introduction to Data Science, Undergraduate Course in USTC, Fall 2017/2018/2019.
+ An Introduction to Database Systems, Undergraduate Course in Computer, USTC, Spring 2017/2018/2019/2020.
+ Frontier of Machine Learning and Data Mining, Ph.D Course in Computer, USTC, Spring 2020.
+ Artificial Intelligence, M.E. Course in Computer, USTC, Fall 2014, Tianjin/Jinan；Spring 2015, Hefei/Sanming.
+    Introduction to Data Mining, M.E. Course in Computer, USTC, Fall 2013.
+	Data Structure, M.E. Course in Computer, USTC, Summer 2013, Nanjing.
+
+
+ Experiences
+
+	Assistant Researcher, School of Computer Science and Technology, USTC. Jul.2012~Jun. 2013.
+	Visiting Student. Rutgers Business School, Rutgers University. Sep.2010~Dec. 2011.
+	Teaching Assistant, Data Mining (Prof. Hui Xiong). Rutgers Business School, Rutgers University, Feb. 2011~May. 2011.
+	One of the Contestant/Team Member, "The First National Data Mining Invitation Tournament for College Students (Postgraduate), China." Mar.2011~May.2011.
+	Development Engineer, Personalized Recommendation Team. Alibaba (China) Technology Co., Ltd.  Mar.2010~Aug.2010.
+	Vice-monitor of the class of Ph.D.s in School of Computer Science and Technology, USTC, 2009~Present.
+	Defence Secretaries for both M.S.s and Ph.Ds in School of Computer Science and Technology, USTC, 2009.
+	Volunteers for both School of Computer Science and Technology and Youth League, USTC,2009.
+	Teaching Assistant, Data Structure (Prof. Ming Zhu). School of Information Science and Technology, USTC, Sep. 2008~Jan. 2009.
+	Teaching Assistant, Digital Logic (Prof. Tingliang Fu). School of Computer Science and Technology, USTC, Feb. 2009~Jul. 2009.
+	Minister of Social practice guidance center. QFNU, Sep. 2005~Jun.2006.
+
+
+ Related Links
+
+	Prof. Enhong Chen (USTC)
+	Prof. Hui Xiong (Rutgers)
+	Prof. Chris H.Q. Ding (UTA)
+	Prof. Xing Xie (MSRA)
+	Prof. Yong Ge (UNCC)
+	Prof. Alexander Tuzhilin (NYU)
+	Dr. Nicholas Jing Yuan (MSRA)
+	Dr.Lei Zhang, Hengshu Zhu, Tong Xu (USTC)
+USTC DM group
+ Rutgers DM group
+
+
+
+
+
+
+Designed By Liu Qi © 2012 | Data Mining @ USTC
+
+
+网页模板网页模板
