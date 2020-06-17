@@ -1,5 +1,13 @@
 # fastProfileExtractor
- Extract information from researchers' homepage(HTML).
+
+![](https://img.shields.io/badge/Status-Done-brightgreen.svg)
+ Extract information from researchers' homepage(HTML) and classify the information into three class(you can add more classes).
+ English and Chinese pages are supported.
+ 
+## class
+- publication
+- education
+- honor
 
 # Project Structure
 - ff_classifier: using fasttext to train automatically and predict academic behavior (<1s)
