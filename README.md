@@ -2,8 +2,9 @@
 
 ![](https://img.shields.io/badge/Status-Done-brightgreen.svg)
  
- Extract information from researchers' homepage(HTML) and classify the information into three class(you can add more classes).
- English and Chinese pages are supported.
+ Extract information from researchers' **homepages(HTML)** and classify the information into three class(you can add more classes).
+ 
+ **English** and **Chinese** pages are supported.
  
 ## class
 - publication
@@ -34,7 +35,7 @@ education 0.3986995816230774 2010 Development Engineer, Personalized Recommendat
 ```
 
 # PS
-If you wanna improve extractors' efficiency or accuracy, you can add more training data in ff_classifier/train_data.txt or adjust training configuration in the line 20 in ff_classifier/classifier.py.
+If you wanna improve extractors' efficiency or accuracy, you can add more training data in [ff_classifier/train_data.txt](ff_classifier/train_data.txt) or adjust training configuration in the line 20 in [ff_classifier/classifier.py](ff_classifier/classifier.py).
 
 ```bash
 # Line 20
