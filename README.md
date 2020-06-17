@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Status-Done-brightgreen.svg)
  
- Extract information from researchers' **homepages(HTML)** and classify the information into three class(you can add more classes).
+ Extract information from researchers' **homepages(HTML)** and classify the information into three classes(you can add more classes).
  
  **English** and **Chinese** pages are supported.
  
