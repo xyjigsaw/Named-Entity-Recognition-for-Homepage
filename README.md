@@ -11,6 +11,13 @@
 - education
 - honor
 
+## Detail
+The linear process of extracting and classifying academic behaviors from HTML is shown in the figure below. Before the formal extraction of academic behaviors, a small number of data on the Internet was first manually annotated. After the training set was generated, fastText was applied to generate the training model and save it.
+
+![](profileExtractor.png)
+
+Next, HTML metadata is obtained by Python crawler, and HTML data is passed into the text extraction algorithm WNBTE to obtain texts. Then, the text paragraphs are segmented at phrase level, and the segmented words are passed into the fastText for labeling.
+
 # Project Structure
 - ff_classifier: using fasttext to train automatically and predict academic behavior (<1s)
 - text_toolkit.py: extracting pattern string
