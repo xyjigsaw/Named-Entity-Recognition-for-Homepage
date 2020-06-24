@@ -20,14 +20,14 @@ The linear process of extracting and classifying academic behaviors from HTML is
 
 Next, HTML metadata is obtained by Python crawler, and HTML data is passed into the text extraction algorithm WNBTE to obtain texts. Then, the text paragraphs are segmented at phrase level, and the segmented words are passed into the fastText for labeling.
 
-# Project Structure
+## Project Structure
 - ff_classifier: using fasttext to train automatically and predict academic behavior (<1s)
 - text_toolkit.py: extracting pattern string
 - profile_class.py: researchers' profile class
 - html_extract.py: extracting html page
 - demo.py: demo
 
-# Result Preview(part)
+## Result Preview(part)
 ```bash
 honor 0.7774751782417297 2013 Aug. 2013,     KSEM'13 Best Paper Award
 ----
@@ -43,7 +43,7 @@ education 0.3986995816230774 2010 Development Engineer, Personalized Recommendat
 ----
 ```
 
-# PS
+## PS
 If you wanna improve extractors' efficiency or accuracy, you can add more training data in [ff_classifier/train_data.txt](ff_classifier/train_data.txt) or adjust training configuration in the line 20 in [ff_classifier/classifier.py](ff_classifier/classifier.py).
 
 ```bash
