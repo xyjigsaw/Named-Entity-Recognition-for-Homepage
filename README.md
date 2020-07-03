@@ -27,7 +27,7 @@ Next, HTML metadata is obtained by Python crawler, and HTML data is passed into 
 - html_extract.py: extracting html page
 - demo.py: demo
 
-## Result Preview(part)
+## Result Example(part)
 ```bash
 honor 0.7774751782417297 2013 Aug. 2013,     KSEM'13 Best Paper Award
 ----
