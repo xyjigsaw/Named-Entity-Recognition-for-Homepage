@@ -8,12 +8,12 @@ Extract information from researchers' **homepages(HTML)** and classify the infor
  
 [Chinese README](https://www.omegaxyz.com/2020/06/18/fast-profile-extractor/)
  
-## class
+## Class
 - publication
 - education
 - honor
 
-## Idea and Detail
+## Detail
 The linear process of extracting and classifying academic behaviors from HTML is shown in the figure below. Before the formal extraction of academic behaviors, a small number of data on the Internet was first manually annotated. After the training set was generated, fastText was applied to generate the training model and save it.
 
 ![](profileExtractor.png)
