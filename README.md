@@ -2,11 +2,11 @@
 
 ![](https://img.shields.io/badge/Status-Done-brightgreen.svg)
  
-Extract information from researchers' **homepages(HTML)** and classify the information into three classes(you can add more classes).
+Extract information from researchers' **homepages(HTML)** and classify the information into three classes(you can add more classes) rapidly.
  
  **English** and **Chinese** pages are supported.
  
-[Chinese README](https://www.omegaxyz.com/2020/06/18/fast-profile-extractor/)
+[Chinese](https://www.omegaxyz.com/2020/06/18/fast-profile-extractor/)
  
 ## Class
 - publication
