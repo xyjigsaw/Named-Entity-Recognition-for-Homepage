@@ -7,6 +7,10 @@ Extract information from researchers' **homepages(HTML)** and classify the infor
  **English** and **Chinese** pages are supported.
  
 [Chinese](https://www.omegaxyz.com/2020/06/18/fast-profile-extractor/)
+
+## Dependencies
+- Python3.6+
+- fastText
  
 ## Class
 - publication
