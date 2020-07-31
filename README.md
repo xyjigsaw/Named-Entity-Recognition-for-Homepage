@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Status-Done-brightgreen.svg)
  
-Extract information from researchers' **homepages(HTML)** and classify the information into three classes(you can add more classes) rapidly.
+Extract information from researchers' **homepages(HTML)** and classify the information into three different classes(you can add more classes) rapidly.
  
  **English** and **Chinese** pages are supported.
  
@@ -12,10 +12,6 @@ Extract information from researchers' **homepages(HTML)** and classify the infor
 - Python3.6+
 - fastText
  
-## Class
-- publication
-- education
-- honor
 
 ## Detail
 The linear process of extracting and classifying academic behaviors from HTML is shown in the figure below. Before the formal extraction of academic behaviors, a small number of data on the Internet was first manually annotated. After the training set was generated, fastText was applied to generate the training model and save it.
