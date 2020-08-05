@@ -1,6 +1,6 @@
 # fastProfileExtractor
 
-![](https://img.shields.io/badge/Status-D-brightgreen.svg)
+![](https://img.shields.io/badge/Status-Developed-brightgreen.svg)
  
 Extract information from researchers' **homepages(HTML)** and classify the information into three different classes(you can add more classes) rapidly.
  
